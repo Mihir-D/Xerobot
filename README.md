@@ -2,10 +2,10 @@
 
 [//]: # (Image References)
 
-image1 = ./screenshots/1.png
-image2 = ./screenshots/2.png
-image3 = ./screenshots/3.png
-image4 = ./screenshots/Pot_to_detect_baseMotor_angle.jpg
+[image1]: ./screenshots/1.png
+[image2]: ./screenshots/2.png
+[image3]: ./screenshots/3.png
+[image4]: ./screenshots/Pot_to_detect_baseMotor_angle.jpg
 
 
 # Xerobot
